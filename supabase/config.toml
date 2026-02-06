@@ -1,0 +1,7 @@
+project_id = "oggfpsazpasmqiftfevv"
+
+[functions.create-pix-payment]
+verify_jwt = false
+
+[functions.send-to-utmify-payevo]
+verify_jwt = false
